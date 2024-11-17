@@ -76,3 +76,5 @@ Axios Documentation: Guide to using Axios for making HTTP requests from your fro
 [Axios Documentation](https://axios-http.com/docs/intro)
 
 JWT Documentation: Information about JSON Web Tokens (JWT), used for secure authentication in your project.
+
+[JWT Documentation](https://jwt.io/introduction/)
